@@ -31,10 +31,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" height="40" width="40"/>
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats (Ashish Parab)
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&theme=light" alt="GitHub Stats" />
 </p>
+
 
 ## 📌 Most Used Languages:
 <p align="center">
