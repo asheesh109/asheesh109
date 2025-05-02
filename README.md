@@ -24,22 +24,47 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" height="40" width="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" height="40" width="40"/>
+    <img src="https://img.icons8.com/fluency/48/database.png" alt="DBMS" height="40" width="40"/>
+</p>
+
+## 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashish109&theme=flat&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ## 📊 GitHub Stats (Ashish Parab)
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&theme=light" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&theme=light" alt="GitHub Stats" />
 </p>
-
 
 ## 📌 Most Used Languages:
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish109&layout=compact&theme=light" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish109&layout=compact&theme=light" alt="Most Used Languages" />
+</p>
+
+## 🧠 Certifications
+- [ ] Java Programming (Add Link)
+- [ ] Full-Stack Web Development (Add Link)
+- [ ] DBMS Concepts (Add Link)
+> _Add your certification links above or remove this section._
+
+## 📂 Pinned Projects
+- 🔹 [Restaurant Management System (Java + JDBC + SQL)](https://github.com/ashish109)
+- 🔹 [Bon Apetite - Food Website](https://asheesh109.github.io/Bon_Apetite/)
+- 🔹 [QA-BOT Analyzer (Python + React)](https://github.com/ashish109)
+
+## 📈 Contribution Graph
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashish109&theme=light" alt="GitHub Contribution Graph"/>
 </p>
 
 ### 🔥 **Let's Connect & Code Together!** 🚀
