@@ -36,35 +36,14 @@
     <img src="https://img.icons8.com/fluency/48/database.png" alt="DBMS" height="40" width="40"/>
 </p>
 
-## 🏆 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish109&theme=flat&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
 ## 📊 GitHub Stats (Ashish Parab)
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&theme=light" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&theme=light" alt="GitHub Stats" />
 </p>
 
 ## 📌 Most Used Languages:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish109&layout=compact&theme=light" alt="Most Used Languages" />
-</p>
-
-## 🧠 Certifications
-- [ ] Java Programming (Add Link)
-- [ ] Full-Stack Web Development (Add Link)
-- [ ] DBMS Concepts (Add Link)
-> _Add your certification links above or remove this section._
-
-## 📂 Pinned Projects
-- 🔹 [Restaurant Management System (Java + JDBC + SQL)](https://github.com/ashish109)
-- 🔹 [Bon Apetite - Food Website](https://asheesh109.github.io/Bon_Apetite/)
-- 🔹 [QA-BOT Analyzer (Python + React)](https://github.com/ashish109)
-
-## 📈 Contribution Graph
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashish109&theme=light" alt="GitHub Contribution Graph"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish109&layout=compact&theme=light" alt="Most Used Languages" />
 </p>
 
 ### 🔥 **Let's Connect & Code Together!** 🚀
