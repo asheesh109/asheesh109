@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASHISH PARAB</h1>
+<h1 align="center">Hi, I'm ASHISH PARAB</h1>
 <h3 align="center">A passionate Java Developer & Full-Stack Enthusiast</h3>
 
 <p align="center"> 
