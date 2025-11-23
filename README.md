@@ -54,7 +54,7 @@
  
 
   
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,python,mysql,postgresql,mongodb,html,css,js,git,docker,kubernetes,aws,linux,tailwind,express,vscode&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,hibernate,react,nodejs,python,mysql,postgresql,mongodb,html,css,js,git,docker,kubernetes,aws,linux,tailwind,express,vscode&perline=7&theme=dark" />
 
 </div>
 
