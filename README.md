@@ -54,7 +54,7 @@
  
 
   
- <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,python,numpy,mysql,postgresql,mongodb,html,css,js,git,docker,kubernetes,aws,linux,tailwind,express,vscode&perline=7&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,nodejs,python,c,mysql,postgresql,mongodb,html,css,js,git,docker,kubernetes,aws,linux,tailwind,express,vscode&perline=7&theme=dark" />
 
 
 </div>
@@ -84,7 +84,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4365-b137-021b6a8beb68.gif" width="50"> Competitive Programming
+## <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4365-b137-021b6a8beb68.gif" width="50"> DSA
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ashsheesh03?theme=nord&font=Karma&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
