@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:87CEFA,100:F0F8FF&height=300&section=header&text=ASHISH%20PARAB&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:87CEFA&height=300&section=header&text=ASHISH%20PARAB&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&descSize=22" />
 </div>
+
+<div align="center">
+  <!-- Optional Squirtle-themed divider -->
+  <img src="https://raw.githubusercontent.com/Ashish109/asset-storage/main/squirtle-divider.gif" width="600" />
+</div>
+
 
 
 <div align="center">
@@ -9,17 +15,15 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish109&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=2C3E50" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ashish109?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=2C3E50" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ashish109?label=TOTAL+STARS&style=for-the-badge&color=45B7D1&labelColor=2C3E50" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=asheesh109&label=PROFILE+VIEWS&color=FF6B6B&style=for-the-badge&labelColor=2C3E50" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/asheesh109?label=FOLLOWERS&style=for-the-badge&color=4ECDC4&labelColor=2C3E50" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/asheesh109?label=TOTAL+STARS&style=for-the-badge&color=45B7D1&labelColor=2C3E50" alt="GitHub stars" />
 </div>
 
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</div>
+
 
 
   
@@ -71,18 +75,18 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212258158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashish109&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=0D1117&border_radius=15&custom_title=📊%20GitHub%20Statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish109&theme=radical&hide_border=true&border_radius=15&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asheesh109&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&bg_color=0D1117&border_radius=15&custom_title=📊%20GitHub%20Statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh109&theme=radical&hide_border=true&border_radius=15&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1&background=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish109&layout=compact&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0D1117&border_radius=15&custom_title=💻%20Most%20Used%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh109&layout=compact&hide_border=true&title_color=FF6B6B&text_color=ffffff&bg_color=0D1117&border_radius=15&custom_title=💻%20Most%20Used%20Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish109&bg_color=0D1117&color=ffffff&line=FF6B6B&point=4ECDC4&area=true&custom_title=📈%20Contribution%20Activity&hide_border=true&area_color=FF6B6B" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheesh109&bg_color=0D1117&color=ffffff&line=FF6B6B&point=4ECDC4&area=true&custom_title=📈%20Contribution%20Activity&hide_border=true&area_color=FF6B6B" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -92,7 +96,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4365-b137-021b6a8beb68.gif" width="50"> Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ashish109?theme=nord&font=Karma&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ashsheesh03?theme=nord&font=Karma&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
   
   <br><br>
   
